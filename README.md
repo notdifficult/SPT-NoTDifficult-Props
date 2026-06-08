@@ -14,8 +14,8 @@
 
 
 ## Props list
-1. Cube
-2. VAZ 21099
+1. Cube `грёбаный куб`
+2. VAZ 21099 `ваз 21099`
 3. VAZ 2105 `soon`
 4. barricades `soon`
 
