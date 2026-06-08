@@ -1,69 +1,66 @@
-# Prerequisites
-*.d
+## .NET / C# standard gitignore
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
 
-# Precompiled Headers
-*.gch
-*.pch
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
 
-# Linker files
-*.ilk
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+!**/packages/build/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
 
-# Debugger Files
-*.pdb
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-*.so.*
+# Visual Studio
+.vs/
+*.vsp
+*.vsps
+*.vspsx
 
+# JetBrains Rider
+.idea/
+*.sln.iml
 
-# Fortran module files
-*.mod
-*.smod
+# mono auto created files
+mono_crash.*
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# Executables
-*.exe
-*.out
-*.app
+# Folder config file
+Desktop.ini
 
-# Build directories
-build/
-Build/
-build-*/
+# Mac OS
+.DS_Store
 
-# CMake generated files
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-install_manifest.txt
-compile_commands.json
-
-# Temporary files
-*.tmp
-*.log
-*.bak
-*.swp
-
-# vcpkg
-vcpkg_installed/
-
-# debug information files
-*.dwo
-
-# test output & cache
-Testing/
-.cache/
+# SPT mod packaging output
+*.zip
+obj/Package/
