@@ -1,70 +1,60 @@
 {
   // Unique ID for this custom item | Уникальный идентификатор для этого пользовательского элемента
-  "6a21e2bae3e2b77f45049599": {
+  "6a21e2bae3e2b77f45049599": 
+  {
 
     // The vanilla Tarkov template ID of the item it's copying properties from (e.g., another belt or container) | Идентификатор ванильного шаблона Tarkov для предмета, свойства которого копируются (например, другого ремня или контейнера) 66572c82ad599021091c6118 фигурка килла
     "itemTplToClone": "66572c82ad599021091c6118",
-
     // The parent category ID in the game’s item database, controls where it appears in the item tree | Идентификатор родительской категории в базе данных предметов игры определяет, где она будет отображаться в дереве предметов.
     "parentId": "57864a3d24597754843f8721",
-
     // The parent category in the handbook (for sorting/grouping in the UI for FleaMarket) | Родительская категория в справочнике (для сортировки/группировки в пользовательском интерфейсе FleaMarket)
     "handbookParentId": "5b47574386f77428ca22b2f1",
-
-
     // Properties that will override what the "itemTplToClone" has by default | Свойства, которые переопределяют значения по умолчанию в "itemTplToClone"
-    "overrideProperties": {
-
+    "overrideProperties": 
+    {
       // Make this item examined (visible) by default in the player's inventory | Сделайте этот предмет проверяемым (видимым) по умолчанию в инвентаре игрока
       "ExaminedByDefault": true,
-
       // Asset prefab for this item: what 3D model and icon the game should use | Префаб для этого элемента: какую 3D-модель и иконку использовать в игре
-      "Prefab": {
+      "Prefab": 
+      {
         // Path to the AssetBundle file for the item | Путь к файлу AssetBundle для элемента
         "path": "props/nd_item_cube.bundle",
         "rcid": ""
       },
-
-          
-      // Inventory size: 2x2 grid spaces | Размер инвентаря: 2х2 ячейки
-      "Width": 2,
-      "Height": 2,
+   
+      // Inventory size: 1x1 grid spaces | Размер инвентаря: 1х1 ячейки
+      "Width": 1,
+      "Height": 1,
       // How much it weighs (kg) | Сколько он весит (кг)
-      "Weight": 0.50,
+      "Weight": 0.01,
       "StackMaxSize": 64,
       "BackgroundColor": "blue",
-      "ItemSound": "generic",
-
-          
+      "ItemSound": "generic",     
       // The grid ("container slots") inside the item where you can put other things | Сетка («слоты контейнера») внутри элемента, в которую можно поместить другие предметы
       "Grids":[]
     },
-
-
-          
+    
     // How the item will appear in different languages ("locales") | Как элемент будет отображаться на разных языках («локалях»)
-    "locales": {
-      "en": {
+    "locales": 
+    {
+      "en": 
+      {
         "name": "Fcking cube",
         "shortName": "cube",
         "description": "this is fcking cube"
       },
-      "ru": {
+      "ru": 
+      {
         "name": "Гребаный куб",
         "shortName": "куб",
         "description": "Это гребаный куб мать его, ты можешь за ним прятаться, можешь построить из него дом, можешь хоть женится на нем, просто найди ему применение!"
       }
     },
 
-
-          
     // Price it will go for on the flea market (in roubles) | Цена, за которую его продадут на барахолке (в рублях)
-    "fleaPriceRoubles": 500000,
+    "fleaPriceRoubles": 5000,
     // Price in the handbook | Цена в справочнике
-    "handbookPriceRoubles": 500000,
-
-
-
+    "handbookPriceRoubles": 5000,
     // Should it go in the hideout poster slots? | Стоит ли размещать его в слотах для постеров в убежище?
     "addtoHideoutPosterSlots": false,
     // Should it be visible on posters/maps? | Должно ли оно быть видно на плакатах/картах?
@@ -80,7 +70,7 @@
     // Chance of spawning as static ammo | Вероятность появления в качестве статичных боеприпасов
     "staticAmmoProbability": 0,
     // Should it be available to bots/loadouts? (NOTE - THIS WILL PUSH TO BOT LOOT TABLES AT THE SAME PROBABILITY AS THE ITEM YOU'RE CLONING IF THAT BOT HAS THAT ITEM IN IT'S LOOT TABLE) | Должно ли это быть доступно ботам/наборам снаряжения? (ПРИМЕЧАНИЕ. ЭТО БУДЕТ ДОБАВЛЕНО В ТАБЛИЦУ НАХОДОК БОТА С ТОЙ ЖЕ ВЕРОЯТНОСТЬЮ, ЧТО И ПРЕДМЕТ, КОТОРЫЙ ВЫ КЛОНИРУЕТЕ, ЕСЛИ У БОТА ЕСТЬ ЭТОТ ПРЕДМЕТ В ТАБЛИЦЕ НАХОДОК)
-    "addtoBots": false,
+    "addtoBots": true,
     // Should it be pushed to special slots | Стоит ли помещать его в специальные слоты
     "addtoSpecialSlots": true,
     // Should it be pushed to anywhere the cloned item is allowed to go | Можно ли отправить его куда угодно, куда разрешено отправлять клонированный элемент?
@@ -95,54 +85,56 @@
       "smallTrophies",
       "dogTags"
     ],
-      
     // Can it be used as generator fuel in hideout? | Можно ли использовать его в качестве топлива для генератора в убежище?
     "addtoGeneratorAsFuel": false,
     // What stages of the generator it can be used in | На каких этапах работы генератора его можно использовать
-    "generatorFuelSlotStages": [
+    "generatorFuelSlotStages": 
+    [
       "1",
       "2",
       "3"
-    ],
-      
+    ], 
     // Should it dynamically create a slot for a VANILLA ITEM THAT HAS A BONE PRESENT BUT NO SLOTS IN IT'S PROPS? | Нужно ли динамически создавать слот для ВАНИЛЬНОГО ПРЕДМЕТА, У КОТОРОГО ЕСТЬ КОСТКА, НО НЕТ СЛОТОВ В СВОЙСТВАХ?
     "addtoEmptyPropSlots": false,
     // Details for ONE empty prop slot it should be added to | Подробная информация об ОДНОМ незаполненном слоте для реквизита, который необходимо добавить
-    "emptyPropSlot": {
-    },
+    "emptyPropSlot": 
+    {
 
+    },
     // Should it be added to static loot containers (e.g., scav bodies) | Стоит ли добавлять его в статичные контейнеры с добычей (например, в трупы мародёров)
     "addtoStaticLootContainers": true,
     // List of containers and the chance it appears in them | Список контейнеров и вероятность их появления
-    "staticLootContainers": [
+    "staticLootContainers": 
+    [
       {
         "containerName": "LOOTCONTAINER_SAFE", // ID or short name of container (SEE COMMONLIBS ITEMMAPS) | Идентификатор или краткое название контейнера (см. ОБЩИЕ КАРТЫ ITEMMAPS)
-        "probability": 4 // percent chance to spawn | процентный шанс появления
+        "probability": 40 // percent chance to spawn | процентный шанс появления
       }
     ],
-
     // Should it be added to all secure case filters? | Стоит ли добавлять его во все фильтры защищенных кейсов?
     "addtoSecureFilters": true,
     // Is this a random loot container? (MUST HAVE RANDOMLOOTCONTAINER "62f109593b54472778797866" AS THIS ITEMS PARENT ID) | Это случайный контейнер с добычей? (ДОЛЖЕН БЫТЬ СЛУЧАЙНЫЙ КОНТЕЙНЕР С ДОБЫЧЕЙ "62f109593b54472778797866" В КАЧЕСТВЕ РОДИТЕЛЬСКОГО ИДЕНТИФИКАТОРА ЭТИХ ПРЕДМЕТОВ)
     "isRandomLootContainer": false,
-
-
-      
     // Should it be available in trader offers? | Должен ли он быть доступен в предложениях для трейдеров?
     "addtoTraders": false,
     // Custom barter/trader settings | Пользовательские настройки бартера/торговли
-    "traders": {
-      "RAGMAN": {
+    "traders": 
+    {
+      "RAGMAN":
+      {
         // Offer ID (unique ID - use a mongoID generator for this) | Идентификатор предложения (уникальный идентификатор — для этого используйте генератор mongoID)
-        "69c6b036b74c2d039e07b264": {
+        "69c6b036b74c2d039e07b264": 
+        {
           // Requirements for buying it at the trader | Условия покупки у трейдера
-          "barterSettings": {
+          "barterSettings": 
+          {
             "loyalLevel": 1,
             "unlimitedCount": true,
             "stackObjectsCount": 1
           },
           // What you need to trade for it (roubles for example) | Что нужно для обмена (например, рубли)
-          "barters": [
+          "barters": 
+          [
             {
               "count": 26125,
               "_tpl": "MONEY_ROUBLES" // Currency ID or short name (SEE SPT'S ITEMTPL CLASS) | Идентификатор валюты или краткое название (см. класс SPT'S ITEMTPL)
