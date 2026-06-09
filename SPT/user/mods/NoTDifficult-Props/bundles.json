@@ -1,6 +1,10 @@
 { 
   "manifest" : [
     {
+      "key": "props/nd_item_oiia.bundle",
+      "dependencyKeys": []
+    },
+    {
       "key": "props/nd_item_maxwell.bundle",
       "dependencyKeys": []
     },
