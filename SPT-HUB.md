@@ -21,6 +21,7 @@
 2. VAZ 21099 
 3. VAZ 2105 
 4. barricades 
+5. Maxwell the cat
 
 ## Trader
 1. Miyuki props dealer `soon`
