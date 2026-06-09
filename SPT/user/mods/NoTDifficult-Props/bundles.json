@@ -1,6 +1,14 @@
 { 
   "manifest" : [
     {
+      "key": "props/nd_item_barricade.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "props/nd_item_vaz2105.bundle",
+      "dependencyKeys": []
+    },
+    {
       "key": "props/nd_item_vaz21099.bundle",
       "dependencyKeys": []
     },
