@@ -16,7 +16,7 @@
 ## Props list
 1. Cube `грёбаный куб`
 2. VAZ 21099 `ваз 21099`
-3. VAZ 2105 `soon`
+3. VAZ 2105 `ваз 2105`
 4. barricades `soon`
 
 ## Trader list
@@ -36,7 +36,7 @@
 
 
 
-## Learning Resources
+## Resources
 
 | Resource | URL |
 |---|---|
@@ -46,7 +46,7 @@
 | SPT Client Mod Examples | https://github.com/Jehree/SPTClientModExamples |
 | WelcomeToTarkov | https://github.com/WelcomeToTarkov |
 | MODELS VAZ 21099 | https://sketchfab.com/3d-models/1991-vaz-21099-4a1ada9d2847461db4bc99c35194a55c |
-
+| MODELS VAZ 2105 | https://sketchfab.com/3d-models/vaz-2105-bce15209fa0449deb88950c5965540eb |
 ---
 
 
