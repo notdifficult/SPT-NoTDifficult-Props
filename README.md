@@ -15,10 +15,11 @@
 
 ## Props list
 - My items have ND prefixes for a quick search
-1. Cube `Polarius Куб`
+1. Polarius cube `Polarius Куб`
 2. VAZ 21099 `ваз 21099`
 3. VAZ 2105 `ваз 2105`
 4. barricades `баррикада`
+5. Maxwell the cat
 
 ## Trader list
 1. Miyuki props dealer `soon`
@@ -57,6 +58,7 @@ I also ask you not to risk your gaming life by hiding behind my objects from gre
 | MODELS VAZ 21099 | https://sketchfab.com/3d-models/1991-vaz-21099-4a1ada9d2847461db4bc99c35194a55c |
 | MODELS VAZ 2105 | https://sketchfab.com/3d-models/vaz-2105-bce15209fa0449deb88950c5965540eb |
 | MODELS barricade | https://sketchfab.com/3d-models/barricade-sandbags-lod0-18d348bd76004edd9a1c39155970382d |
+| MODELS Maxwell | https://sketchfab.com/3d-models/maxwell-the-cat-with-bones-animation-4175776146ba4550a8dd643363b7b0aa |
 ---
 
 
