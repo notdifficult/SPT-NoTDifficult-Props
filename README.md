@@ -16,7 +16,7 @@
 
 ## Props list
 - My items have MPD prefixes for a quick search
-1. Cube `Polarius Куб`
+1. Polarius cube `Polarius Куб`
 2. VAZ 21099 `ваз 21099`
 3. VAZ 2105 `ваз 2105`
 4. barricades `баррикада`
