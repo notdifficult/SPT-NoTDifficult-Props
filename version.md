@@ -1,4 +1,5 @@
-1.0.2
+2.0.0
+- mod rename Miyuki props dealer
 - fix maxwell icon
 
 1.0.1
