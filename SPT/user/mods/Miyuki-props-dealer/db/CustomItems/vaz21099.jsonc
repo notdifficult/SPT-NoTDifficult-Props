@@ -19,7 +19,7 @@
       "Prefab": 
       {
           // Path to the AssetBundle file for the item | Путь к файлу AssetBundle для элемента
-          "path": "props/nd_item_vaz21099.bundle",
+          "path": "props/mpd_item_vaz21099.bundle",
           "rcid": ""
       },
   
@@ -103,13 +103,13 @@
     {
       "en": 
       {
-        "name": "ND VAZ 21099",
+        "name": "MPD VAZ 21099",
         "shortName": "VAZ 21099",
         "description": "this is fcking russian car. Have you ever wanted to put a car in your pocket? Now you can afford it. The engine is 1.5 MT (78 hp) and the weight is 970 kg. You'll need some kind of magic to take it with you)"
       },
       "ru": 
       {
-        "name": "ND ВАЗ 21099",
+        "name": "MPD ВАЗ 21099",
         "shortName": "ВАЗ 21099",
         "description": "Ты когда-нибудь хотел засунуть автомобиль в карман? Теперь ты это можешь себе позволить. мотор 1.5 MT (78 л. с.) а вес — 970 кг. Тебе потребуеся какая то магия, что бы унести это с собой)"
       }
