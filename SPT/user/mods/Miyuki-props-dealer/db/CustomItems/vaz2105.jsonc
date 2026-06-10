@@ -19,7 +19,7 @@
       "Prefab": 
       {
           // Path to the AssetBundle file for the item | Путь к файлу AssetBundle для элемента
-          "path": "props/nd_item_vaz2105.bundle",
+          "path": "props/mpd_item_vaz2105.bundle",
           "rcid": ""
       },
   
@@ -103,13 +103,13 @@
     {
       "en": 
       {
-        "name": "ND VAZ 2105",
+        "name": "MPD VAZ 2105",
         "shortName": "VAZ 2105",
         "description": "this is fcking russian car. Have you ever wanted to put a car in your pocket? Now you can afford it. weight is 976 kg. You'll need some kind of magic to take it with you)"
       },
       "ru": 
       {
-        "name": "ND ВАЗ 2105",
+        "name": "MPD ВАЗ 2105",
         "shortName": "ВАЗ 2105",
         "description": "Ты когда-нибудь хотел засунуть автомобиль в карман? Теперь ты это можешь себе позволить. вес — 976 кг. Тебе потребуеся какая то магия, что бы унести это с собой)"
       }
