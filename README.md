@@ -1,4 +1,4 @@
-# SPT-NoTDifficult-Props [SPT 4.0.13](https://www.sp-tarkov.com/) 
+# Miyuki props dealer [SPT 4.0.13](https://www.sp-tarkov.com/) 
 
 > My Mod add random props `The mod is in the development process` first test mod for Tarkov, I'm training to create mods, I want to diversify the game with various objects, portable shelters, meme, fun, collection objects.
 
@@ -15,7 +15,7 @@
 
 
 ## Props list
-- My items have ND prefixes for a quick search
+- My items have MPD prefixes for a quick search
 1. Cube `Polarius Куб`
 2. VAZ 21099 `ваз 21099`
 3. VAZ 2105 `ваз 2105`
@@ -31,10 +31,11 @@
 <img src="https://i.imgur.com/34vXXDj.gif" width="1080" height="607">
 
 1. download the latest release zip.
-2. Extract the zip so that `NoTDifficult-Props` ends up in:
+2. Extract the zip so that `Miyuki-props-dealer` ends up in:
    
    ```
-   SPT/user/mods/ >HERE<
+   Bepln/plugins/Miyuki-props-dealer
+   SPT/user/mods/Miyuki-props-dealer
    ```
 
 ---
