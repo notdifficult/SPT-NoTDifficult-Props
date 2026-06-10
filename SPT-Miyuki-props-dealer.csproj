@@ -11,7 +11,7 @@
     <Product>SPT-NoTDifficult-Props</Product>
     <Description>SPT Mod add random props</Description>
     <Copyright>Copyright © NoTDifficult</Copyright>
-    <RepositoryUrl>https://github.com/notdifficult/SPT-NoTDifficult-Props</RepositoryUrl>
+    <RepositoryUrl>https://github.com/notdifficult/SPT-Miyuki-props-dealer</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
@@ -35,7 +35,7 @@
     <PropertyGroup>
       <ModName>$(AssemblyName)</ModName>
       <TempPackageDir>$(ProjectDir)obj\Package</TempPackageDir>
-      <ModPackageDir>$(ProjectDir)\SPT\user\mods\NoTDifficult-Props</ModPackageDir>
+      <ModPackageDir>$(ProjectDir)\SPT\user\mods\Miyuki-props-dealer</ModPackageDir>
     </PropertyGroup>
     
     <Message Text="--- Starting move package ---" Importance="high" />
