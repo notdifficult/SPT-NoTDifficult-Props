@@ -18,7 +18,7 @@
       "Prefab": 
       {
         // Path to the AssetBundle file for the item | Путь к файлу AssetBundle для элемента
-        "path": "props/nd_item_maxwell.bundle",
+        "path": "props/mpd_item_maxwell.bundle",
         "rcid": ""
       },
    
@@ -39,13 +39,13 @@
     {
       "en": 
       {
-        "name": "ND Maxwell the cat",
+        "name": "MPD Maxwell the cat",
         "shortName": "Maxwell",
         "description": "Maxwell the cat - meow"
       },
       "ru": 
       {
-        "name": "ND Maxwell the cat",
+        "name": "MPD Maxwell the cat",
         "shortName": "Maxwell",
         "description": "Maxwell the cat - мяу"
       }
