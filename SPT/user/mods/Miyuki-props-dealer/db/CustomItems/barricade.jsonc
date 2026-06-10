@@ -18,7 +18,7 @@
       "Prefab": 
       {
         // Path to the AssetBundle file for the item | Путь к файлу AssetBundle для элемента
-        "path": "props/nd_item_barricade.bundle",
+        "path": "props/mpd_item_barricade.bundle",
         "rcid": ""
       },
    
