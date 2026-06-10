@@ -69,11 +69,18 @@ I also ask you not to risk your gaming life by hiding behind my objects from gre
 | SPT Wiki Modding Resources | https://wiki.sp-tarkov.com/modding/Modding_Resources |
 | SPT Client Mod Examples | https://github.com/Jehree/SPTClientModExamples |
 | WelcomeToTarkov | https://github.com/WelcomeToTarkov |
-| MODELS VAZ 21099 | https://sketchfab.com/3d-models/1991-vaz-21099-4a1ada9d2847461db4bc99c35194a55c |
-| MODELS VAZ 2105 | https://sketchfab.com/3d-models/vaz-2105-bce15209fa0449deb88950c5965540eb |
-| MODELS barricade | https://sketchfab.com/3d-models/barricade-sandbags-lod0-18d348bd76004edd9a1c39155970382d |
-| MODELS Maxwell the cat | https://sketchfab.com/3d-models/maxwell-the-cat-with-bones-animation-4175776146ba4550a8dd643363b7b0aa |
-| MODELS oiia cat | https://sketchfab.com/3d-models/oiiaioooooiai-cat-30d27bf7fb224849b76e208a6eccdb36 |
+
+| Models | URL |
+|---|---|
+| VAZ 21099 | https://sketchfab.com/3d-models/1991-vaz-21099-4a1ada9d2847461db4bc99c35194a55c |
+| VAZ 2105 | https://sketchfab.com/3d-models/vaz-2105-bce15209fa0449deb88950c5965540eb |
+| barricade | https://sketchfab.com/3d-models/barricade-sandbags-lod0-18d348bd76004edd9a1c39155970382d |
+| Maxwell the cat | https://sketchfab.com/3d-models/maxwell-the-cat-with-bones-animation-4175776146ba4550a8dd643363b7b0aa |
+| oiia cat | https://sketchfab.com/3d-models/oiiaioooooiai-cat-30d27bf7fb224849b76e208a6eccdb36 |
+| People_f_01 | https://sketchfab.com/3d-models/blonde-woman-black-bikini-blue-eyes-cd4c5b5f0c294ae38a12909562188335 |
+| People_f_02 | https://sketchfab.com/3d-models/brown-draped-halter-mini-dress-3dffe1ac65094da3b9dc519ac4e0a9eb |
+| People_f_03 | https://sketchfab.com/3d-models/crimson-velvet-diva-8ac355f433334bfda580384b0aeeac24 |
+| People_f_04 | https://sketchfab.com/3d-models/monochrome-elegance-dac608bba6304180a31d87f9081dcb8a |
 ---
 
 
