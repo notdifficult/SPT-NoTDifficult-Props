@@ -1,5 +1,6 @@
 // # Optional: Time-limited quest configuration
 // QuestTimeData.json (Optional - Time-Limited Quests):
+// Quests in this file will only be available during the specified date range. Useful for seasonal/holiday events.
 
 {
   "my_quest_id": 
