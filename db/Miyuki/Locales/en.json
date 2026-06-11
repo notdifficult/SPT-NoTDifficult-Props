@@ -1,1 +1,13 @@
-en.json
+// en.json
+
+//Locales (Locales/*.json):
+
+{
+  "my_quest_id name": "Custom Quest Name",
+  "my_quest_id description": "Quest description text",
+  "my_quest_id successMessageText": "Quest completion message",
+  "my_quest_id startedMessageText": "Quest started message"
+}
+
+
+// Images (Images/*): Quest icons referenced by filename (without extension) in the quest definition.
