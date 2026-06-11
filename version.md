@@ -4,6 +4,7 @@
 > - Delete old folder SPT/USER/MODS/   > SPT-NoTDifficult-Props <
 
 - mod rename Miyuki props dealer
+- fix fatal error (if not install other WTTMOD)
 - fix maxwell icon
 - fix vaz 21099 icon
 - fix vaz 2105 icon
