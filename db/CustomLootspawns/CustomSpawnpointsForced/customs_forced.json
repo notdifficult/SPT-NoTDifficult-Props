@@ -1,0 +1,45 @@
+{
+    "interchange": [     
+        {
+            "locationId": "(31.7642 38.7517 -22.9169)",
+            "probability": 0.25,
+            "template": {
+                "Id": "quest_item_immortal_poster (1) [8d2f6c4e-9b3a-4e1f-a7d5-2c8b0e9f3a6d]",
+                "IsContainer": false,
+                "useGravity": false,
+                "randomRotation": false,
+                "Position": {
+                    "x": 31.7642,
+                    "y": 38.7517,
+                    "z": -23.244
+                },
+                "Rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "IsGroupPosition": false,
+                "GroupPositions": [],
+                "IsAlwaysSpawn": true,
+                "Root": "68748750c2bc7bbc4797d713",
+                "Items": [
+                    {
+                        "_id": "PUT A UNIQUE MONGOID HERE",
+                        "_tpl": "687464af51ed3be7e4f6f525",
+                        "upd": {
+                            "StackObjectsCount": 1
+                        }
+                    }
+                ]
+            },
+            "itemDistribution": [
+                {
+                    "composedKey": {
+                        "key": "687464af51ed3be7e4f6f525"
+                    },
+                    "relativeProbability": 1
+                }
+            ]
+        }
+    ]
+}
