@@ -100,7 +100,7 @@ public class MiyukiPropsDealer
         
         addCustomTraderHelper.SetTraderUpdateTime(_traderConfig, traderBase, timeUtil.GetHoursAsSeconds(1), timeUtil.GetHoursAsSeconds(2));
         addCustomTraderHelper.AddTraderWithEmptyAssortToDb(traderBase);
-        addCustomTraderHelper.AddTraderToLocales(traderBase, "Miyuki", "This is the cat shop. Meow.");
+        addCustomTraderHelper.AddTraderToLocales(traderBase, "Miyuki", "My name is miyuki, nice to meet you) I am a secret experiment number C416. developed at TerraGroup Labs. The essence of the experiment was to create intelligent beings who think no worse than humans. they took the genes of a cat and an accidental SCAV, and they created me. Something didn't go according to plan, I turned out to be much smarter than they expected, and I ran away. Now I live in the customs area and sell junk that would be enough for food. I need people like you to rise from the bottom. I will give you various tasks and we can rise from the bottom together)");
         addCustomTraderHelper.OverwriteTraderAssort(traderBase.Id, assort);
         
         await wtt.CustomItemServiceExtended.CreateCustomItems(assembly);
