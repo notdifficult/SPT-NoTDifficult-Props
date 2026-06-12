@@ -24,8 +24,20 @@
 6. oiia cat
 7. `soon`
    
-## Trader list
-1. Miyuki props dealer `soon`
+## Trader
+
+![prev](https://raw.githubusercontent.com/notdifficult/SPT-Miyuki-props-dealer/main/image/MPDStory.png)
+
+> # My name is miyuki, nice to meet you)
+
+> - I am a secret experiment number C416. developed at TerraGroup Labs.
+> - The essence of the experiment was to create intelligent beings who think no worse than humans. 
+> - they took the genes of a cat and an accidental SCAV, and they created me.
+> - Something didn't go according to plan, I turned out to be much smarter than they expected, and I ran away. 
+> - Now I live in the customs area and sell junk that would be enough for food. 
+> -  I need people like you to rise from the bottom. 
+> - I will give you various tasks and we can rise from the bottom together)
+
 
 ## Installation
 <img src="https://i.imgur.com/34vXXDj.gif" width="1080" height="607">
